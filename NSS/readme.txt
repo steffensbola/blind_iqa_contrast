@@ -1,0 +1,3 @@
+1. The code is used to compute the objective score of contrast distorted images. Please cite the following paper when using the code. Yuming Fang, Kede Ma, Zhou Wang, Weisi Lin, Zhijun Fang, and Guangtao Zhai, 'No-Reference Quality Assessment of Contrast-Distorted Images Based on Natural Scene Statistics', IEEE Signal Processing Letter, 22(7): 838-842, 2015. We use the code of SVR from http://www.csie.ntu.edu.tw/~cjlin/libsvm/ for machine learning. 
+
+2. Open 'main.m' to run the demo of the code.
