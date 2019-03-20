@@ -22,9 +22,10 @@ Jia Yan, Jie Li, Xin Fu, 'No-Reference Quality Assessment of Contrast-Distorted 
 # Usage
 
 ```
-img = imread('sample1.jpg')
-mdm_score = MDM(img)
-nss_score = NSS(img)
+img = imread('sample.jpg')
+mdm_score = MDM(img) % larger is better
+nss_score = NSS(img) % larger is better
+ceiq_score = CEIQ(img) % larger is better
 ```
 
 # Dependencies
