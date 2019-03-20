@@ -11,7 +11,13 @@ Yuming Fang, Kede Ma, Zhou Wang, Weisi Lin, Zhijun Fang, and Guangtao Zhai, 'No-
 
 Source code from http://www.synchromedia.ca/system/files/MDM.zip
 
-Hossein Ziaei Nafchi and Mohamed Cheriet: Efficient No-Reference Quality Assessment and Classification Model for Contrast Distorted Images, IEEE Transactions on Broadcasting, 2018.
+Hossein Ziaei Nafchi and Mohamed Cheriet, 'Efficient No-Reference Quality Assessment and Classification Model for Contrast Distorted Images', IEEE Transactions on Broadcasting, 2018.
+
+# CEIQ
+
+Source code from https://github.com/mtobeiyf/CEIQ
+
+Jia Yan, Jie Li, Xin Fu, 'No-Reference Quality Assessment of Contrast-Distorted Images using Contrast Enhancement'. Journal of Visual Communication and Image Representation, 2018 (Under review)
 
 # Usage
 
