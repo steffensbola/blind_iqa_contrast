@@ -5,11 +5,11 @@ function Score = NSS(img)
 %% Assessment of Contrast-Distorted Images Based on Natural Scene Statistics', IEEE Signal Processing
 %% Letter, 22(7): 838-842, 2015.
 
-load ./CID2013.mat; %% You can also load the files of 'CSIQ.mat' or 'TID13.mat' if you want to use CSIQ or TID2013 database for training.
-train_data = Data(:,[1:5]);
-train_label = Data(:, 6);
-model = svmtrain(train_label, train_data, '-s 3');  % train
-
+%load ./CSIQ.mat; %% You can also load the files of 'CSIQ.mat' or 'TID13.mat' if you want to use CSIQ or TID2013 database for training.
+%train_data = Data(:,[1:5]);
+%train_label = Data(:, 6);
+%model = svmtrain(train_label, train_data, '-s 3');  % train
+load CID2013model.mat
 disim = img;
 
 if numel(size(disim))>2     %% Is a rgb image ?
