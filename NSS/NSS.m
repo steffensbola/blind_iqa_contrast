@@ -43,5 +43,5 @@ test_label = 0;
 [predicted_label, accuracy, decision_values] = svmpredict(test_label, Value, model);
 Score = predicted_label;
 clc
-#disp('Score:');
-#disp(Score );
+%disp('Score:');
+%disp(Score );
