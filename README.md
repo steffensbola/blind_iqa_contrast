@@ -19,6 +19,13 @@ Source code from https://github.com/mtobeiyf/CEIQ
 
 Jia Yan, Jie Li, Xin Fu, 'No-Reference Quality Assessment of Contrast-Distorted Images using Contrast Enhancement'. Journal of Visual Communication and Image Representation, 2018 (Under review)
 
+# LOE
+
+Source code from https://github.com/baidut/BIMEF
+
+Wang, S., Zheng, J., Hu, H.M. and Li, B., 2013. Naturalness preserved enhancement algorithm for non-uniform illumination images. IEEE Transactions on Image Processing, 22(9), pp.3538-3548.
+
+
 # Usage
 
 ```
@@ -26,6 +33,7 @@ img = imread('sample.jpg')
 mdm_score = MDM(img) % larger is better
 nss_score = NSS(img) % larger is better
 ceiq_score = CEIQ(img) % larger is better
+loe_score = LOE(original_img, contrast_enhanced_img) % does not require a 'ground-truth'
 ```
 
 # Dependencies
