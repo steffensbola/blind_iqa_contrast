@@ -9,7 +9,7 @@ Yuming Fang, Kede Ma, Zhou Wang, Weisi Lin, Zhijun Fang, and Guangtao Zhai, 'No-
 
 # MDM
 
-Source code from http://www.synchromedia.ca/system/files/MDM.zip
+Source code from http://www.synchromedia.ca/system/files/MDM.zip.
 
 Hossein Ziaei Nafchi and Mohamed Cheriet, 'Efficient No-Reference Quality Assessment and Classification Model for Contrast Distorted Images', IEEE Transactions on Broadcasting, 2018.
 
