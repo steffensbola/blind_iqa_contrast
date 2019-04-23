@@ -17,7 +17,7 @@ Hossein Ziaei Nafchi and Mohamed Cheriet, 'Efficient No-Reference Quality Assess
 
 Source code from https://github.com/mtobeiyf/CEIQ
 
-Jia Yan, Jie Li, Xin Fu, 'No-Reference Quality Assessment of Contrast-Distorted Images using Contrast Enhancement'. Journal of Visual Communication and Image Representation, 2018 (Under review)
+Jia Yan, Jie Li, Xin Fu, 'No-Reference Quality Assessment of Contrast-Distorted Images using Contrast Enhancement'. Journal of Visual Communication and Image Representation, 2018 (Under review) Pre-Print available at https://arxiv.org/abs/1904.08879
 
 # LOE
 
