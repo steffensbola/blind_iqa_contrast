@@ -33,7 +33,7 @@ img = imread('sample.jpg')
 mdm_score = MDM(img) % larger is better
 nss_score = NSS(img) % larger is better
 ceiq_score = CEIQ(img) % larger is better
-loe_score = LOE(original_img, contrast_enhanced_img) % does not require a 'ground-truth'
+loe_score = LOE(original_img, contrast_enhanced_img) % does not require a 'ground-truth', smaller is better
 ```
 
 # Dependencies
