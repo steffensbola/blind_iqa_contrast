@@ -25,6 +25,12 @@ Source code from https://github.com/baidut/BIMEF
 
 Wang, S., Zheng, J., Hu, H.M. and Li, B., 2013. Naturalness preserved enhancement algorithm for non-uniform illumination images. IEEE Transactions on Image Processing, 22(9), pp.3538-3548.
 
+# UCIQUE
+
+Source code from https://github.com/paulwong16/UCIQE
+
+Yang, M. and Sowmya, A., 2015. An underwater color image quality evaluation metric. IEEE Transactions on Image Processing, 24(12), pp.6062-6071.
+
 
 # Usage
 
@@ -34,6 +40,7 @@ mdm_score = MDM(img) % larger is better
 nss_score = NSS(img) % larger is better
 ceiq_score = CEIQ(img) % larger is better
 loe_score = LOE(original_img, contrast_enhanced_img) % does not require a 'ground-truth', smaller is better
+uciqe_score = UCIQE(img) %higher is better (or, as in the paper, the camera is closer to the observed scene)
 ```
 
 # Dependencies
